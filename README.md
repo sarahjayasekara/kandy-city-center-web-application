@@ -1,6 +1,5 @@
-# 🏬 Kandy City Centre — Smart Mall Web Platform
+# 🏬 Kandy City Centre — An Interactive Web Application for Shopping Malls
 
-### An Interactive Web Application for Shopping Malls
 
 ![Kandy City Centre Web Application](Home1.png)
 
@@ -8,9 +7,21 @@ A full-stack web platform developed for **Kandy City Centre (KCC)** as a third-y
 
 This was designed to modernize the shopping-mall experience by providing visitors with convenient access to shops, events, promotions, mall information, navigation, and customer services through a single digital platform.
 
-> 🔒 **Source Code Notice** <br> 
-> The original development repository is private. This public repository serves as a **portfolio showcase** of the project and my individual contributions. It does not contain private source code, credentials, or confidential configuration.
+# 🔐 Source Code & Confidentiality Notice
 
+The original development repository is **private and cannot be publicly distributed due to confidentiality and non-disclosure obligations associated with the project**.
+
+This public repository is maintained solely as a **portfolio showcase** to demonstrate:
+
+- The problem addressed
+- Overall system functionality
+- Technology stack and architecture
+- My individual technical contributions
+- Testing and development experience
+
+No private source code, credentials, `.env` files, internal configuration, or other confidential project materials are included in this repository.
+
+All screenshots and information presented here are limited to materials appropriate for public portfolio demonstration.
 ---
 
 ## 📌 Project Overview
@@ -337,11 +348,10 @@ Test scenarios included:
 
 ## Shops Directory
 
-
+The Shops Directory provides search and filtering controls together with responsive shop cards.
 
 ![Shops Directory](shop.png) 
 
-The Shops Directory provides search and filtering controls together with responsive shop cards.
 
 ## Customer Inquiry
 
@@ -443,17 +453,4 @@ Other major components of the complete system were developed collaboratively or 
 
 ---
 
-# 🔐 Source Code
 
-The original development repository is **private** and cannot be publicly distributed.
-
-This repository is therefore maintained as a **project showcase** to demonstrate:
-
-* The problem addressed
-* Overall system functionality
-* Technology stack
-* System architecture
-* My individual technical contributions
-* Testing and development experience
-
-No private source code, credentials, `.env` files, internal configuration, or other restricted project material is included.
