@@ -8,7 +8,7 @@ A full-stack web platform developed for **Kandy City Centre (KCC)** as a third-y
 
 This was designed to modernize the shopping-mall experience by providing visitors with convenient access to shops, events, promotions, mall information, navigation, and customer services through a single digital platform.
 
-> 🔒 **Source Code Notice**
+> 🔒 **Source Code Notice** <br> 
 > The original development repository is private. This public repository serves as a **portfolio showcase** of the project and my individual contributions. It does not contain private source code, credentials, or confidential configuration.
 
 ---
@@ -337,9 +337,9 @@ Test scenarios included:
 
 ## Shops Directory
 
-<!-- Replace with your actual image path -->
 
-<!-- ![Shops Directory](assets/shops-directory.png) -->
+
+![Shops Directory](assets/shops-directory.png) 
 
 The Shops Directory provides search and filtering controls together with responsive shop cards.
 
