@@ -1,4 +1,4 @@
-# 🏬 Kandy City Centre Web Application
+# 🏬 Kandy City Centre — Smart Mall Web Platform
 
 ### An Interactive Web Application for Shopping Malls
 
