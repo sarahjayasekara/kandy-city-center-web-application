@@ -17,18 +17,17 @@ The project was developed to transform KCC's static web presence into a more dyn
 
 The complete system provides functionality for:
 
-* 🛍️ Shop browsing and discovery
-* 🔎 Shop search and category filtering
-* 🕒 Shop availability and operating information
-* 🗺️ Interactive mall navigation
-* 🎉 Events and promotions
-* 👤 User and role management
-* 🏪 Shop-owner functionality
-* 🛠️ Administrative management
-* 💬 Customer inquiries and feedback
-* 📧 Direct email communication with visitors
-* 📱 Responsive access across devices
-
+Shop browsing and discovery
+Shop search and category filtering
+Shop availability and operating information
+Interactive mall navigation
+Events and promotions
+User and role management
+Shop-owner functionality
+Administrative management
+Customer inquiries and feedback
+Direct email communication with visitors
+Responsive access across devices
 ---
 
 
