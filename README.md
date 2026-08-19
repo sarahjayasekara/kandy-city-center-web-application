@@ -1,12 +1,12 @@
 # 🏬 Kandy City Centre 
-##An Interactive Web Application for Shopping Malls
+## An Interactive Web Application for Shopping Malls
 
 ![Kandy City Centre Web Application](Home1.png)
 
 A full-stack web platform developed for **Kandy City Centre (KCC)** as a third-year Computer Science team project at the **University of Peradeniya**.
 
 This was designed to modernize the shopping-mall experience by providing visitors with convenient access to shops, events, promotions, mall information, navigation, and customer services through a single digital platform.
-
+<br><br>
 
 # 🔐 Source Code & Confidentiality Notice
 
@@ -22,7 +22,8 @@ This public repository is maintained solely as a **portfolio showcase** to demon
 
 No private source code, credentials, `.env` files, internal configuration, or other confidential project materials are included in this repository.
 
-###All screenshots and information presented here are limited to materials appropriate for public portfolio demonstration.
+### All screenshots and information presented here are limited to materials appropriate for public portfolio demonstration.
+<br><br>
 
 ## 📌 Project Overview
 
