@@ -339,26 +339,26 @@ Test scenarios included:
 
 
 
-![Shops Directory](assets/shop.png) 
+![Shops Directory](shop.png) 
 
 The Shops Directory provides search and filtering controls together with responsive shop cards.
 
 ## Customer Inquiry
 
-![Contact Us](assets/contactus.png)
+![Contact Us](contactus.png)
 
 Visitors can submit inquiries, feedback, and other messages through the Contact Us interface.
 
 ## Admin Dashboard
 The administration interface provides centralized access to visitor inquiries and their current status.
 
-![Admin Dashboard](assets/msgdetails.png)
+![Admin Dashboard](msgdetails.png)
 
 ## Email Reply System
 
 Administrators can respond to visitor inquiries through the application's integrated email functionality.
 
-![Email Reply](assets/reply.png)
+![Email Reply](reply.png)
 
 ---
 
