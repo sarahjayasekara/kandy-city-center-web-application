@@ -17,18 +17,17 @@ The project was developed to transform KCC's static web presence into a more dyn
 
 The complete system provides functionality for:
 
-Shop browsing and discovery
-Shop search and category filtering
-Shop availability and operating information
-Interactive mall navigation
-Events and promotions
-User and role management
-Shop-owner functionality
-Administrative management
-Customer inquiries and feedback
-Direct email communication with visitors
-Responsive access across devices
----
+- Shop browsing and discovery
+- Shop search and category filtering
+- Shop availability and operating information
+- Interactive mall navigation
+- Events and promotions
+- User and role management
+- Shop-owner functionality
+- Administrative management
+- Customer inquiries and feedback
+- Direct email communication with visitors
+- Responsive access across devices
 
 
 The broader project concept focuses on making mall information and services easier to access digitally.
@@ -402,12 +401,18 @@ Potential improvements to the platform include:
 **Institution:** University of Peradeniya
 **Project Type:** Third-Year Computer Science Team Project
 
-The complete platform was developed collaboratively by a four-member team.
-Team Members : 
-SARATHI JAYASEKARA 
-K.G.D.S. NANDASIRI 
-THILINI CHATHURIKA 
-SACHIN KALHARA 
+## Team
+
+The complete platform was developed collaboratively by a four-member team at the University of Peradeniya.
+
+### Team Members
+
+- **Sarathi Jayasekara**
+- **Samith Nandasiri**
+- **Thilini Chathurika**
+- **Sachin Kalhara**
+
+This showcase highlights my individual contributions while acknowledging the collaborative effort behind the complete platform.
 
 ### Scope of My Work
 
