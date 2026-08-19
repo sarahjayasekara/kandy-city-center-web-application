@@ -4,7 +4,7 @@
 
 A full-stack web platform developed for **Kandy City Centre (KCC)** as a third-year Computer Science team project at the **University of Peradeniya**.
 
-**Smart Plaza 360** was designed to modernize the shopping-mall experience by providing visitors with convenient access to shops, events, promotions, mall information, navigation, and customer services through a single digital platform.
+This was designed to modernize the shopping-mall experience by providing visitors with convenient access to shops, events, promotions, mall information, navigation, and customer services through a single digital platform.
 
 > 🔒 **Source Code Notice**
 > The original development repository is private. This public repository serves as a **portfolio showcase** of the project and my individual contributions. It does not contain private source code, credentials, or confidential configuration.
@@ -31,7 +31,6 @@ The complete system provides functionality for:
 
 ---
 
-## ✨ Smart Plaza 360
 
 The broader project concept focuses on making mall information and services easier to access digitally.
 
@@ -399,13 +398,17 @@ Potential improvements to the platform include:
 
 # 👥 Project Context
 
-**Project:** Web Application for Kandy City Centre
-**Concept:** Smart Plaza 360
+**Project:** An Interactive Web Application for Kandy City Centre
 **Year:** 2025
 **Institution:** University of Peradeniya
 **Project Type:** Third-Year Computer Science Team Project
 
 The complete platform was developed collaboratively by a four-member team.
+Team Members : 
+SARATHI JAYASEKARA 
+K.G.D.S. NANDASIRI 
+THILINI CHATHURIKA 
+SACHIN KALHARA 
 
 ### Scope of My Work
 
