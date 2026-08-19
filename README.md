@@ -355,10 +355,10 @@ The Shops Directory provides search and filtering controls together with respons
 
 
 ## Customer Inquiry
+Visitors can submit inquiries, feedback, and other messages through the Contact Us interface.
 
 ![Contact Us](contactus.png)
 
-Visitors can submit inquiries, feedback, and other messages through the Contact Us interface.
 
 ## Admin Dashboard
 The administration interface provides centralized access to visitor inquiries and their current status.
