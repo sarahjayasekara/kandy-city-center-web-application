@@ -2,6 +2,8 @@
 
 ### An Interactive Web Application for Shopping Malls
 
+![Kandy City Centre Web Application](Home1.png)
+
 A full-stack web platform developed for **Kandy City Centre (KCC)** as a third-year Computer Science team project at the **University of Peradeniya**.
 
 This was designed to modernize the shopping-mall experience by providing visitors with convenient access to shops, events, promotions, mall information, navigation, and customer services through a single digital platform.
