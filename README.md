@@ -23,7 +23,7 @@ This public repository is maintained solely as a **portfolio showcase** to demon
 No private source code, credentials, `.env` files, internal configuration, or other confidential project materials are included in this repository.
 
 ### All screenshots and information presented here are limited to materials appropriate for public portfolio demonstration.
-<br><br>
+<br>
 ## Original Project Structure
 
 ### Frontend (`src/`)
@@ -55,6 +55,7 @@ com/kcc/demo/
 ├── dto/              # Data transfer objects
 └── config/           # Application configuration
 ```
+<br>
 ## 📌 Project Overview
 
 The project was developed to transform KCC's static web presence into a more dynamic and interactive platform for visitors and mall management.
