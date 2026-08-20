@@ -24,7 +24,37 @@ No private source code, credentials, `.env` files, internal configuration, or ot
 
 ### All screenshots and information presented here are limited to materials appropriate for public portfolio demonstration.
 <br><br>
+## Original Project Structure
 
+### Frontend (`src/`)
+```
+src/
+├── components/          # Reusable UI components
+│   ├── ui/             # shadcn/ui components
+│   ├── auth/           # Authentication components
+│   ├── admin/          # Admin dashboard components
+│   ├── shop/           # Shop management components
+│   ├── home/           # Home page components
+│   └── layout/         # Layout components
+├── pages/              # Page components
+├── services/           # API service functions
+├── hooks/              # Custom React hooks
+├── lib/                # Utility functions
+├── types/              # TypeScript type definitions
+└── styles/             # Global styles
+```
+
+### Backend (`Backend/demo/demo/src/main/java/com/kcc/demo/`)
+```
+com/kcc/demo/
+├── controller/         # REST API controllers
+├── entity/            # JPA entities
+├── repository/        # Data access layer
+├── service/           # Business logic layer
+├── security/          # Security configuration
+├── dto/              # Data transfer objects
+└── config/           # Application configuration
+```
 ## 📌 Project Overview
 
 The project was developed to transform KCC's static web presence into a more dynamic and interactive platform for visitors and mall management.
