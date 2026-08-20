@@ -404,7 +404,7 @@ The project was developed collaboratively by a four-member team at the Universit
 </td>
 <td width="52%" align="center">
 
-<img src="contributors.png" alt="GitHub contributors and repository language statistics" width="400">
+<img src="contributers.png" alt="GitHub contributors and repository language statistics" width="400">
 
 </td>
 </tr>
