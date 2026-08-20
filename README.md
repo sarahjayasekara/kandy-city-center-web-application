@@ -188,38 +188,7 @@ This creates a complete feedback loop between visitors and KCC management.
 
 The application follows a layered full-stack architecture.
 
-```text
-┌────────────────────────────────────┐
-│             Frontend               │
-│                                    │
-│        React + TypeScript          │
-│      Tailwind CSS + Vite           │
-└─────────────────┬──────────────────┘
-                  │
-              REST / HTTP
-                  │
-┌─────────────────▼──────────────────┐
-│              Backend               │
-│                                    │
-│         Java + Spring Boot         │
-│                                    │
-│          Controllers               │
-│               ↓                    │
-│            Services                │
-│               ↓                    │
-│          Repositories              │
-└─────────────────┬──────────────────┘
-                  │
-            Spring Data JPA
-                  │
-┌─────────────────▼──────────────────┐
-│              MySQL                 │
-│                                    │
-│       Application Data Layer       │
-└────────────────────────────────────┘
-```
-
----
+![system architecture](archi.png)
 
 # 🛠️ Technology Stack
 
