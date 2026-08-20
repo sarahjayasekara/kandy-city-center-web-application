@@ -188,7 +188,7 @@ This creates a complete feedback loop between visitors and KCC management.
 
 The application follows a layered full-stack architecture.
 
-![system architecture](archi.png)
+<img src="archi.png" alt="System Architecture" width="450">
 
 # 🛠️ Technology Stack
 
@@ -377,9 +377,9 @@ Potential improvements to the platform include:
 
 # 👥 Project Context
 
-**Project:** An Interactive Web Application for Kandy City Centre
-**Year:** 2025
-**Institution:** University of Peradeniya
+**Project:** An Interactive Web Application for Kandy City Centre <br>
+**Year:** 2025 <br>
+**Institution:** University of Peradeniya <br>
 **Project Type:** Third-Year Computer Science Team Project
 
 ## Team
