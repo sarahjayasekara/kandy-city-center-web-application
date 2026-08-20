@@ -56,6 +56,7 @@ com/kcc/demo/
 └── config/           # Application configuration
 ```
 <br>
+
 ## 📌 Project Overview
 
 The project was developed to transform KCC's static web presence into a more dynamic and interactive platform for visitors and mall management.
