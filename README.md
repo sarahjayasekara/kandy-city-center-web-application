@@ -386,12 +386,29 @@ Potential improvements to the platform include:
 
 The complete platform was developed collaboratively by a four-member team at the University of Peradeniya.
 
-### Team Members
+## 👥 Team Members
+
+<table>
+<tr>
+<td width="48%" valign="top">
+
+### Team
 
 - **Sarathi Jayasekara**
 - **Samith Nandasiri**
 - **Thilini Chathurika**
 - **Sachin Kalhara**
+
+The project was developed collaboratively by a four-member team at the University of Peradeniya.
+
+</td>
+<td width="52%" align="center">
+
+<img src="contributors.png" alt="GitHub contributors and repository language statistics" width="400">
+
+</td>
+</tr>
+</table>
 
 This showcase highlights my individual contributions while acknowledging the collaborative effort behind the complete platform.
 
